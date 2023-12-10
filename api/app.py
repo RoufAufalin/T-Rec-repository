@@ -17,7 +17,7 @@ with open('api/datasets/class_info.json') as class_file:
 
 VOCAB_SIZE = 10000
 OOV_TOK = '<OOV>'
-MAX_LENGTH = 986
+MAX_LENGTH = 1000
 PADDING_TYPE = 'post'
 TRUNC_TYPE = 'post'
 
